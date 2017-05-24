@@ -17,7 +17,7 @@ title: LetAPKFLy 应用分发 - 让技术飞
 email: neofelhz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     让安装包飞 | LetAPKFly | 应用分发 - 让技术飞
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://apk.letitfly.me" # the base hostname & protocol for your site
 
 # Social
