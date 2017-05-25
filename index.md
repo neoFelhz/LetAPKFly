@@ -3,28 +3,11 @@ layout: page
 title: Let APK FLy | 让安装包飞
 ---
 
-## 去中心化 | 独立自主 | 自由分发
+# 去中心化 | 独立自主 | 自由分发
 
-#### 由 [neoFelhz](https://blog.nfz.moe) 和 [MAT BBS](https://mat.letitfly.me) 站长 LetITFly 共同发起。
+## 由 [neoFelhz](https://blog.nfz.moe) 和 [MAT BBS](https://mat.letitfly.me) 站长 LetITFly 共同发起。
 
-#### 致力于提供一个自由的应用分发平台。
-
------
-
-## LetAPKFly 的应用从哪里来？可靠吗？
-
-我们从手机乐园、ApkMirror、ApkPure、Github 和 XDA 抓取那些被酷安下架的应用。其中，ApkMirror 和 ApkPure 上的应用是完全安全的，从 Github 和 XDA 抓取到的应用也很可靠。
-
-### 酷安下架了这么多应用，你们都会采集吗？
-
-并不。我们很希望能这样做，但是受限于我们的时间成本和硬件成本，我们并没有办法同步所有的应用。我们希望能尽我们自己微薄的力量，来维护和分发尽可能多的常见应用。
-
-## 你们怎么维护这些应用？
-
-LetAPKFly 团队通过 Telegram 群组互相联系，交换最新的应用的信息。我们使用 ResilioSync 同步应用，并不断更新。
-
-## 我们怎样才能下载到它们？
-
-对于常见的应用，我们会设法提供直链供大家下载。对于一些非热门的应用，你需要通过 ResilioSync 连接我们的应用库，利用`选择性同步`从我们的应用库下载和更新你想要的应用。
+了解 *如何下载应用* 和 *项目是如何运作的*，请浏览 [FAQ](https://apk.letitfly.me/faq.html)
 
 > Resilio Sync 应用库只读秘钥：`BTH5TQFSMTVBCCNL6D3ML4VYW5NRPI2JO`
+> 下载 Resilio Sync 手机版 [ResilioSync-2.5.1.apk](http://git.oschina.net/neoFelhz/letapkfly/raw/master/ResilioSync/ResilioSync-2.5.1.apk)
