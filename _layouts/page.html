@@ -11,4 +11,19 @@ layout: default
   <div class="c-article__main">
     {{ content }}
   </div>
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: location.href
+  owner: 'neoFelhz',
+  repo: 'LetAPKFly',
+  oauth: {
+    client_id: '4e43ae5ca1c5d2591a57',
+    client_secret: '91b6d601b0467d298b31c123fe077761d0883afc',
+  },
+})
+gitment.render('container')
+</script>
 </article>
