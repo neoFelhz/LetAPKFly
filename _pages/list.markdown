@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: LetAPKFly | 应用列表
-permalink: /list.html
+permalink: "/apklist.html"
 ---
 
 - ADM
