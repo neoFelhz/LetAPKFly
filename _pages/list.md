@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LetAPKFly | 常见问题
+title: LetAPKFly | 应用列表
 permalink: /list.html
 ---
 
