@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LetAPKFly | 常见问题
-permalink: /faq.html
+permalink: /faq/
 ---
 
 ## LetAPKFly 的应用从哪里来？可靠吗？
