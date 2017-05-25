@@ -7,13 +7,7 @@ title: Let APK FLy | 让安装包飞
 
 ## 去中心化 | 独立自主 | 自由分发
 
-#### 由 [neoFelhz](https://blog.nfz.moe) 和 [MAT BBS](https://mat.letitfly.me) 共同发起。
-
-### 友情链接
-
-- [MAT BBS](https://mat.letitfly.me)
-- [neoFelhz's Blog](https://blog.nfz.moe)
-- [天空之边](https://liyin.date)
+#### 由 [neoFelhz](https://blog.nfz.moe) 和 [MAT BBS](https://mat.letitfly.me) 站长 LetITFly 共同发起。
 
 ------
 
