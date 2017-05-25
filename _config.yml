@@ -32,7 +32,7 @@ markdown: kramdown
 themeColor: grey
 fixedNav: 'true' # true or false
 
-permalink: /blog/:year-:month/:title/
+permalink: /:year-:month/:title.html
 markdown: kramdown
 include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
