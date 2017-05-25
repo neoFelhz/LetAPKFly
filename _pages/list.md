@@ -1,10 +1,9 @@
-﻿---
+---
 layout: page
-title: LetAPKFly | 应用列表
-permalink: /list.html
+title: LetAPKFly | 常见问题
+permalink: /faq.html
 ---
 
-## 已抓取应用
 - ADM
 - BestTrace
 - Chllengram
