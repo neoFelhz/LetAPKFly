@@ -12,4 +12,5 @@ title: Let APK FLy | 让安装包飞
 ------
 
 > 我们使用 ResilioSync 同步我们的应用库。如果你想直接从我们的应用库下载应用，请下载 ResilioSync 并通过 选择性同步 来下载你想要的应用。
+
 > Resilio Sync 应用库只读秘钥：`BTH5TQFSMTVBCCNL6D3ML4VYW5NRPI2JO`
