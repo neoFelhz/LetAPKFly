@@ -1,8 +1,8 @@
 <nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
-  <div class="c-navigation__container u-container">
-    <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ "/" | prepend: site.baseurl }}">HOME</a>
-    <a class="c-navigation__item {% if page.url == '/blog.html' %}is-active{% endif %}" href="{{ "/blog.html" | prepend: site.baseurl }}">BLOG</a>
-    <a class="c-navigation__item {% if page.url == '/faq.html' %}is-active{% endif %}" href="{{ "/faq.html" | prepend: site.baseurl }}">FAQ</a>
-    <a class="c-navigation__item {% if page.url == '/list.html' %}is-active{% endif %}" href="{{ "/faq.html" | prepend: site.baseurl }}">LIST</a>
-  </div>
+    <div class="c-navigation__container u-container">
+        <a class="c-navigation__item {% if page.url == '/' %}is-active{% endif %}" href="{{ " / " | prepend: site.baseurl }}">HOME</a>
+        <a class="c-navigation__item {% if page.url == '/blog.html' %}is-active{% endif %}" href="{{ " /blog.html " | prepend: site.baseurl }}">BLOG</a>
+        <a class="c-navigation__item {% if page.url == '/faq.html' %}is-active{% endif %}" href="{{ " /faq.html " | prepend: site.baseurl }}">FAQ</a>
+        <a class="c-navigation__item {% if page.url == '/list.html' %}is-active{% endif %}" href="{{ " /list.html " | prepend: site.baseurl }}">LIST</a>
+    </div>
 </nav>
