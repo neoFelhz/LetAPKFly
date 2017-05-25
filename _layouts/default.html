@@ -3,13 +3,14 @@
 {% include head.html %}
 
 <body>
-    {% include navigation.html %} {{ content }} {% include footer.html %}
+    {% include navigation.html %} {{ content }}
+
     <div id="container"></div>
     <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
     <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
     <script type="text/javascript">
         var gitment = new Gitment({
-            id: location.href
+            id: document.location.href
             owner: 'neoFelhz',
             repo: 'LetAPKFly',
             oauth: {
@@ -19,6 +20,8 @@
         })
         gitment.render('container')
     </script>
+
+    {% include footer.html %}
 </body>
 
 </html>
