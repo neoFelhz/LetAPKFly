@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LetAPKFly | 常见问题
-permalink: /faq.html
+permalink: /list.html
 ---
 
 - ADM
