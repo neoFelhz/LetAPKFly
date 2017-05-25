@@ -4,8 +4,7 @@ title: LetAPKFly | 应用列表
 permalink: /list.html
 ---
 
-## 已抓取引用
-
+## 已抓取应用
 - ADM
 - BestTrace
 - Chllengram
