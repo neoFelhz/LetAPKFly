@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Let APK FLy | 让安装包飞
+title: LetAPKFLy | 让安装包飞
 ---
 
 # 去中心化 | 独立自主 | 自由分发
