@@ -15,6 +15,11 @@ permalink: /list.html
 > 直链下载最多只保留三个历史版本的链接。通过 ResilioSync 同步的应用库根据情况提供历史版本。
 
 ## ADM
+
+- [下载 - 5.1.2](http://git.oschina.net/neoFelhz/letapkfly/raw/master/ADM/Advanced%20Download%20Manager%205.1.2(apkmirror).apk)
+
+高级版和修改版建议使用风澈版，发布在 https://vioren.space
+
 ## BestTrace
 ## BusyBox - Meefik Version
 ## Chllengram
@@ -77,6 +82,12 @@ permalink: /list.html
 - [下载 - Android KK-MM dvandroid 版](http://git.oschina.net/neoFelhz/letapkfly/raw/master/XposedInstaller/XposedInstaller_dvdandroid_3.0.1.apk)
 
 ## Greenify
+## ZArhiver
+
+- [下载 - 0.8.4 - arm64](http://git.oschina.net/neoFelhz/letapkfly/raw/master/ZArchiver/ru.zdevs.zarchiver_0.8.4-arm64_apkmirror.apk)
+- [下载 - 0.8.4 - arm](http://git.oschina.net/neoFelhz/letapkfly/raw/master/ZArchiver/ru.zdevs.zarchiver_0.8.4-arm_apkmirror.apk)
+- [下载 - 0.8.4 - x86](http://git.oschina.net/neoFelhz/letapkfly/raw/master/ZArchiver/ru.zdevs.zarchiver_0.8.4-x86_apkmirror.apk)
+
 ## 山寨云
 
 山寨云提供应用内更新，故不会优先同步。
