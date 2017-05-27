@@ -7,7 +7,7 @@ permalink: /faq.html
 ## LetAPKFly 的应用从哪里来？可靠吗？
 
 我们从手机乐园、F-Droid、ApkMirror、ApkPure、Github 和 XDA 抓取那些被酷安下架的应用。其中，ApkMirror 和 ApkPure 上的应用是完全安全的，从 F-Droid、Github 和 XDA 抓取到的应用也很可靠。
-我们会在每个 APK 的名字上标注来源，供大家参考。我们也会优先从最安全的软件源抓取应用。
+我们会在每个 APK 的文件名上标注来源，供大家参考。我们也会优先从最安全的软件源抓取应用。
 
 ## 酷安下架了这么多应用，你们都会采集吗？
 
