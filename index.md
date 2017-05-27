@@ -11,10 +11,10 @@ title: LetAPKFLy | 让安装包飞
 
 ------
 
-> LetAPKFly 应用库 Sync 秘钥：`BTH5TQFSMTVBCCNL6D3ML4VYW5NRPI2JO` （只读）
+> LetAPKFly 应用库 ResilioSync 密钥：`BTH5TQFSMTVBCCNL6D3ML4VYW5NRPI2JO` （只读）
 
-> 下载 Resilio Sync 手机版 [ResilioSync-2.5.1.apk](http://git.oschina.net/neoFelhz/letapkfly/raw/master/ResilioSync/ResilioSync-2.5.1.apk)（该版本支持免费选择性同步）
+> 下载 Resilio Sync 手机版 [ResilioSync-2.5.1.apk](http://git.oschina.net/neoFelhz/letapkfly/raw/master/ResilioSync/ResilioSync-2.5.1.apk)（手机版支持免费选择性同步）
 
 > 从 [Resilio Sync 官网](https://www.resilio.com/platforms/desktop/) 下载电脑版 Resilio Sync
 
-> 下载 Resilio Sync 商业版 [激活密钥](https://git.oschina.net/neoFelhz/letapkfly/raw/master/ResilioSyncPro.btskey)
+> Resilio Sync [商业版激活密钥](https://git.oschina.net/neoFelhz/letapkfly/raw/master/ResilioSyncPro.btskey)

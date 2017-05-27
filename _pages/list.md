@@ -18,7 +18,7 @@ permalink: /list.html
 
 - [下载 - 5.1.2](http://git.oschina.net/neoFelhz/letapkfly/raw/master/ADM/Advanced%20Download%20Manager%205.1.2(apkmirror).apk)
 
-高级版和修改版建议使用风澈版，发布在 https://vioren.space
+高级版和修改版建议使用风澈版，发布在 [寻沫小栈](http://vioren.space)
 
 ## BestTrace
 ## BusyBox - Meefik Version
@@ -29,6 +29,10 @@ permalink: /list.html
 - [下载 - 4.3.3](http://git.oschina.net/neoFelhz/letapkfly/raw/master/MagiskManager/Magisk_4.3.3.apk)
 
 ## MEGA
+## Mix Explorer
+
+应用库中包含基本的 Add On 插件
+
 ## MTK Boost
 ## MT 文件管理器
 ## My Android Tools 免费版
@@ -70,6 +74,7 @@ permalink: /list.html
 
 - [下载 - 4.0.1](https://git.oschina.net/neoFelhz/letapkfly/raw/master/Telegram/Telegram%204.0.1(apkmirror).apk)
 
+## Termux
 ## Titanium Backup
 
 - [下载 - 8.0.0.1](http://git.oschina.net/neoFelhz/letapkfly/raw/master/TitaniumBackup/TitaniumBackup_8.0.0.1.apk)
