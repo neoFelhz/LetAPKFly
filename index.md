@@ -3,9 +3,9 @@ layout: page
 title: LetAPKFly | 让安装包飞
 ---
 
-## 念念不忘，必有回响。现在，回应您的等待！
+# 念念不忘，必有回响。现在，回应您的等待！
 
-##### 由 [neoFelhz](https://blog.nfz.moe) 和 [MAT BBS](https://mat.letitfly.me) 站长 LetITFly 共同发起
+##### 由 [neoFelhz](https://blog.nfz.moe) 和 [MAT BBS](https://mat.letitfly.me) 站长 LetITFly 共同发起的应用分发服务
 
 ------
 
@@ -15,7 +15,7 @@ title: LetAPKFly | 让安装包飞
 
 ### 独立自主
 
-LetAPKFly 不使用国内的服务，不受国内政策限制。  
+LetAPKFly 不使用国内的服务，不受国内政策限制。
 **让网络安全法什么的都给我们见鬼去吧！！**
 
 ### 自由分发

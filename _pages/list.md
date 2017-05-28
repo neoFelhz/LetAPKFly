@@ -8,11 +8,12 @@ permalink: /list.html
 
 > **对于电脑用户，你可以使用 `ctrl` / `command ⌘` + `F` 快捷键打开页面内搜索**
 
-> 我们会尽量为更多的应用提供带 SSL 安全传输的 HTTPS 直链应用下载。但是受限于硬件和成本，能提供直链下载的应用是有限的。  
+> 我们会尽量为更多的应用提供带 SSL 安全传输的 HTTPS 直链应用下载。但是受限于硬件和成本，能提供直链下载的应用是有限的。
 所以，当你在列表中没有看到你想要的应用的直链时，意味着你需要通过 ResilioSync 的选择性同步下载该应用。
 
 > 直链下载最多只保留三个历史版本的链接。通过 ResilioSync 同步的应用库根据情况提供历史版本。
 
+## 3C ToolBox
 ## ADM
 
 - [下载 - 5.1.2](http://git.oschina.net/neoFelhz/letapkfly/raw/master/ADM/Advanced%20Download%20Manager%205.1.2(apkmirror).apk)
@@ -22,7 +23,10 @@ permalink: /list.html
 ## BestTrace
 ## BusyBox - Meefik Version
 ## Chllengram
+## DiskDigger
 ## F-Droid
+## FlashFire
+## Kernel Adiutor
 ## MagiskManager
 
 - [下载 - 4.3.3](http://git.oschina.net/neoFelhz/letapkfly/raw/master/MagiskManager/Magisk_4.3.3.apk)
