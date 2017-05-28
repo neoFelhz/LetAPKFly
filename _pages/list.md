@@ -21,7 +21,13 @@ permalink: /list.html
 高级版和修改版建议使用风澈版，发布在 [寻沫小栈](http://vioren.space)
 
 ## BestTrace
+
+- [下载 - 1.5.6](http://git.oschina.net/neoFelhz/letapkfly/raw/master/BestTrace%E8%B7%AF%E7%94%B1%E8%BF%BD%E8%B8%AA/Best-Trace-1.5-6.apk)
+
 ## BusyBox - Meefik Version
+
+- [下载 - 1.26.2](http://git.oschina.net/neoFelhz/letapkfly/raw/master/busybox(meefik)/ru.meefik.busybox_1.26.2-31(apkmirror).apk)
+
 ## Chllengram
 ## DiskDigger
 ## F-Droid
@@ -39,6 +45,11 @@ permalink: /list.html
 ## MTK Boost
 ## MT 文件管理器
 ## My Android Tools 免费版
+
+- [下载 - 0.9.8.9](http://git.oschina.net/neoFelhz/letapkfly/raw/master/My%20Android%20Tools/My%20Android%20Tools%200.9.8.9.apk)
+
+本站不提供免费版下载。Pro 版推荐用 [zd423](http://www.zdfans.com) 的版本。
+
 ## Nova Launcher 免费版
 
 - [下载 - 5.1.1](http://git.oschina.net/neoFelhz/letapkfly/raw/master/Nova/Nova%20Launcher%205.1.1(apkmirror).apk)
@@ -53,6 +64,9 @@ permalink: /list.html
 ## RikkaAppOps
 ## RikkaBridge
 ## Rikkagram
+
+- [下载 - 3.13.1.17](http://git.oschina.net/neoFelhz/letapkfly/raw/master/Rikkagram/Rikkagram.apk)
+
 ## Root Explorer
 
 - [下载 - 4.1.2](http://git.oschina.net/neoFelhz/letapkfly/raw/master/RootExplorer/RootExplorer_4.1.2.apk)
@@ -60,6 +74,11 @@ permalink: /list.html
 本站仅提供原版下载。去广告和修改版推荐尘封之泪的版本，发布于[云梦小站](https://www.htcp.net)
 
 ## SD Maid 免费版
+
+- [下载 - 4.6.5](http://git.oschina.net/neoFelhz/letapkfly/raw/master/SD%20Maid/sdm_4.6.5-40605(apkmirror).apk)
+
+4.7.x 为 Beta 版，暂不提供下载。
+
 ## Solid Explorer
 
 本站仅提供免费版。快乐版推荐尘封之泪破解的版本，发布于[云梦小站](https://www.htcp.net)
