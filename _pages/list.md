@@ -48,7 +48,7 @@ permalink: /list.html
 
 - [下载 - 0.9.8.9](http://git.oschina.net/neoFelhz/letapkfly/raw/master/My%20Android%20Tools/My%20Android%20Tools%200.9.8.9.apk)
 
-本站不提供免费版下载。Pro 版推荐用 [zd423](http://www.zdfans.com) 的版本。
+本站不提供 Pro 版下载。Pro 版推荐用 [zd423](http://www.zdfans.com) 的版本。
 
 ## Nova Launcher 免费版
 
