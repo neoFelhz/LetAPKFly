@@ -98,7 +98,8 @@ permalink: /list.html
 
 - [下载 - 2.79SR4](https://git.oschina.net/neoFelhz/letapkfly/raw/master/SuperSU/SuperSU-2.79-SR4.apk)
 
-鉴于 2.80 的诸多问题，本站暂时只提供 2.79-SR4 版本下载
+鉴于 2.8x 版本的诸多问题，本站直链暂时只提供 2.79-SR4 版本下载。
+2.82-CCMT 版请使用 ResilioSync 去应用库内下载。
 
 ## SystemUI Tuner
 ## Telegram
