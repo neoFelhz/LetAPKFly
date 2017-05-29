@@ -30,9 +30,18 @@ permalink: /list.html
 
 ## Chllengram
 ## DiskDigger
+
+- [下载 - 1.0](http://git.oschina.net/neoFelhz/letapkfly/raw/master/DiskDigger/DiskDigger_v1.0-apkpure.apk)
+
 ## F-Droid
+
+- [下载 - 1.50](http://git.oschina.net/neoFelhz/letapkfly/raw/master/F-Droid/F-Droid(f-droid.org).apk)
+
 ## FlashFire
 ## Kernel Adiutor
+
+- [下载 - 0.9.7.2](http://git.oschina.net/neoFelhz/letapkfly/raw/master/Kernel%20Adiutor/kerneladiutor_0.9.7.2-236_apkmirror.apk)
+
 ## MagiskManager
 
 - [下载 - 4.3.3](http://git.oschina.net/neoFelhz/letapkfly/raw/master/MagiskManager/Magisk_4.3.3.apk)
@@ -97,6 +106,9 @@ permalink: /list.html
 - [下载 - 4.0.1](https://git.oschina.net/neoFelhz/letapkfly/raw/master/Telegram/Telegram%204.0.1(apkmirror).apk)
 
 ## Termux
+
+- [下载 - 0.50](http://git.oschina.net/neoFelhz/letapkfly/raw/master/Termux/Termux-0.50-f-droid.apk)
+
 ## Titanium Backup
 
 - [下载 - 8.0.0.1](http://git.oschina.net/neoFelhz/letapkfly/raw/master/TitaniumBackup/TitaniumBackup_8.0.0.1.apk)
@@ -128,5 +140,8 @@ permalink: /list.html
 
 ## 支付宝-9.6.8
 ## 重力工具箱
+## 验证码助手（Gitai）
+
+- [下载 - 0.0.10](http://git.oschina.net/neoFelhz/letapkfly/raw/master/%E9%AA%8C%E8%AF%81%E7%A0%81%E5%8A%A9%E6%89%8B_Gitai/%E9%AA%8C%E8%AF%81%E7%A0%81%E5%8A%A9%E6%89%8B_Gitai_0.0.10.apk)
 
 > 未完待续..
