@@ -28,6 +28,6 @@ LetAPKFly 团队通过 Telegram 群组互相联系，交换应用的最新信息
 
 ## 你们真的完全不使用国内的服务吗？
 
-我们大部分服务都不受国内限制：`apk.letitfly.me` 域名已经注销了备案；我们准备的 20 个常驻 Sync 节点在日本和香港；我们的官网部署在 Github Pages、使用 CloudFlare CDN 加速。为 LetAPKFly 提供镜像直链下载服务的 file.ime.moe 位于日本。
+我们大部分服务都不受国内限制：`letitfly.me` 域名购买于 NameSilo 并已经注销了备案；我们的官网部署在 Github Pages、使用 CloudFlare CDN 加速。为 LetAPKFly 提供镜像直链下载服务的 file.ime.moe 位于日本。
 
 > 未完待续..
