@@ -56,6 +56,7 @@
 !> 应用库仅提供原版。去广告和修改版推荐尘封之泪的版本，发布于[云梦小站](https://www.htcp.net)
 
 ### SD Maid 免费版
+### Shizuku Managerf
 ### Slack
 ### Solid Explorer
 
