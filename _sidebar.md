@@ -12,3 +12,4 @@
   - [天空之边](https://liyin.date)
   - [Love4Taylor's Blog](https://love4taylor.eu.org)
   - [ManSora 网络加速服务](https://ss.ime.moe/)
+  - [Alex](https://weibo.com/2069068571)
